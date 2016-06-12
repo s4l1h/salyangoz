@@ -1,3 +1,6 @@
+/*
+salyangoz.me cli
+*/
 package main
 
 import (
